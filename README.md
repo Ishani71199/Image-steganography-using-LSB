@@ -25,3 +25,9 @@ Since each pixel is described with three pieces of information, it takes up thre
 ## Overview of the code:
 The data is represented using its ASCII value. Each letter is represented using 8 bits, or 1 byte. Each pixel in the image has three bits, one each for RGB frames. Each pixel can hold 3 bits. We will encode three pixels together, making a place for 9 bits. Out of the 9 bits, we will store 1 letter in the 8 bits and one (End Of File)EOF bit. If the EOF bit is high, then it indicates that the end of the message has been reached. Otherwise, it indicates the program to read more pixels for decoding.<br/>
 We have a simple encryption technique included in the algorithm above. Instead of encoding 3 letters together, we can encode any other number of letters. Unless anyone knows this number, decrypting the file is going to be tough.<br/>
+
+## Results:
+![Capture](https://user-images.githubusercontent.com/55583932/125662549-26d83981-ecf2-4557-9b09-444137b0742c.PNG)
+![Capture1](https://user-images.githubusercontent.com/55583932/125662601-3b96db47-b9a8-4512-888e-a131225a0169.PNG)
+
+
