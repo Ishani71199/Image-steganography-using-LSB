@@ -27,7 +27,7 @@ The data is represented using its ASCII value. Each letter is represented using 
 We have a simple encryption technique included in the algorithm above. Instead of encoding 3 letters together, we can encode any other number of letters. Unless anyone knows this number, decrypting the file is going to be tough.<br/>
 
 ## Results:
-![Capture](https://user-images.githubusercontent.com/55583932/125662549-26d83981-ecf2-4557-9b09-444137b0742c.PNG)
+![Capture](https://user-images.githubusercontent.com/55583932/125662549-26d83981-ecf2-4557-9b09-444137b0742c.PNG)<br/><br/><br/>
 ![Capture1](https://user-images.githubusercontent.com/55583932/125662601-3b96db47-b9a8-4512-888e-a131225a0169.PNG)
 
 
