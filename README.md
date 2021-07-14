@@ -10,7 +10,7 @@ Steganography is the art of hiding a message. The purpose of the steganography i
 * Email Steganography
 ## Process of steganography:
 ![steganography-tutorial-how-to-hide-text-inside-the-image-cybersecurity-training-edureka-13-638 (1)](https://user-images.githubusercontent.com/55583932/125614121-37db0400-d663-47eb-8829-de3c7014f813.png)
-### Few points abount pixel:
+### Few points about pixel:
 * Each pixel in the image has 3 bits, one each for RGB frame.
 * These three RGB compopnents are three 8-bits numbers for each pixel.
 * Each 8-bit RGB component can have 256 possible values(0-255).</br>
